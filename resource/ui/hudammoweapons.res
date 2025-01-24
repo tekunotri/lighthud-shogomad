@@ -92,14 +92,14 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmonoClip"
-		"xpos"										"0"
+		"xpos"										"-8"
 		"ypos"										"0"
 		"zpos"										"5"
 		"wide"										"80"
 		"tall"										"40"
 		"visible"									"0"
 		"enabled"									"1"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"font"										"HP"
 		"fgcolor"									"HP"
@@ -119,7 +119,7 @@
 		"tall"										"40"
 		"visible"									"0"
 		"enabled"									"1"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"font"										"HP"
 		"fgcolor"									"LabelTransparent"
@@ -139,6 +139,20 @@
 		"enabled"								"1"
 		"scaleImage"							"1"
 		"image"									"replay/thumbnails/ammo"
+	}
+	"Bullet"
+	{
+		"ControlName"							"ImagePanel"
+		"fieldName"								"Bullet"
+		"xpos"									"rs1-80"
+		"ypos"									"rs1-15"
+		"zpos"									"6"
+		"wide"									"32"
+		"tall"									"16"
+		"visible"								"1"
+		"enabled"								"1"
+		"scaleImage"							"1"
+		"image"									"replay/thumbnails/bullet"
 	}
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS

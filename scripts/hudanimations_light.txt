@@ -40,9 +40,9 @@ event HudLowAmmoPulseStop
 	StopEvent		HudLowAmmoPulse					0.0
 	StopEvent		HudLowAmmoPulseLoop				0.0
 
-	Animate			AmmoInClip						FgColor		"White"					Linear		0.0		0.0
-	Animate			AmmoInReserve					FgColor		"White"					Linear		0.0		0.0
-	Animate			AmmoNoClip						FgColor		"White"					Linear		0.0		0.0
+	Animate			AmmoInClip						FgColor		"HP"					Linear		0.0		0.0
+	Animate			AmmoInReserve					FgColor		"HP"					Linear		0.0		0.0
+	Animate			AmmoNoClip						FgColor		"HP"					Linear		0.0		0.0
 }
 //=====================================================================================================================
 event HudMedicCharged
@@ -56,7 +56,7 @@ event HudMedicChargedStop
 	StopEvent		HudMedicCharged					0.0
 	StopEvent		HudMedicChargedLoop				0.0
 
-	Animate			ChargeLabel						FgColor		"White"					Linear		0.0		0.0
+	Animate			ChargeLabel						FgColor		"hp"					Linear		0.0		0.0
 }
 //=====================================================================================================================
 event HudTournamentSetupPanelOpen
@@ -93,7 +93,7 @@ event ActiveTimerHighlight
 }
 event ActiveTimerDim
 {
-	Animate			TimePanelValue					FgColor		"White"					Linear		0.0		0.0
+	Animate			TimePanelValue					FgColor		"hp"					Linear		0.0		0.0
 }
 //=====================================================================================================================
 event SurveyShowSequence

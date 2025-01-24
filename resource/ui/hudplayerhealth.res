@@ -81,7 +81,37 @@
 		"scaleImage"							"1"
 		"image"									"replay/thumbnails/hp"
 	}
-	
+	"Speedometer"
+	{
+		"ControlName"							"ImagePanel"
+		"fieldName"								"Speedometer"
+		"xpos"									"63"
+		"ypos"									"rs1-13"
+		"zpos"									"6"
+		"wide"									"56"
+		"tall"									"12"
+		"visible"								"1"
+		"enabled"								"1"
+		"scaleImage"							"1"
+		"drawcolor"								"HP"
+		"image"									"replay/thumbnails/numbers"
+	}
+	"speedometershadow"
+	{
+		"ControlName"							"ImagePanel"
+		"fieldName"								"speedometershadow"
+		"xpos"									"-1"
+		"ypos"									"-1"
+		"zpos"									"6"
+		"wide"									"56"
+		"tall"									"12"
+		"visible"								"1"
+		"enabled"								"1"
+		"scaleImage"							"1"
+		"drawcolor"								"LabelTransparent"
+		"image"									"replay/thumbnails/numbers"
+		"pin_to_sibling"						"Speedometer"
+	}
 	"PlayerStatusAnchor"
 	{
 		"ControlName"								"Panel"
