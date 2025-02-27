@@ -6,13 +6,13 @@
 	"Colors"
 	{
 		"HP"												"115 255 255 255"
-		"Main"												"80 175 115 255"
+		"Main"												"1 2 232 255"
 		"Low"												"225 75 75 255"
 
-		"Orange"											"80 175 115 255"
-		"OrangeDim"											"80 175 115 255"
-		"LightOrange"										"80 175 115 255"
-		"TFOrange"											"80 175 115 255"
+		"Orange"											"1 2 232 255"
+		"OrangeDim"											"1 2 232 255"
+		"LightOrange"										"1 2 232 255"
+		"TFOrange"											"1 2 232 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -41,12 +41,12 @@
 		"Yellow"											"225 220 220 255"
 		"TransparentYellow"									"225 220 220 255"
 		"BrightYellow"										"255 255 0 255"
-		"GreenSolid"										"80 175 115 255"
+		"GreenSolid"										"1 2 232 255"
 
 		"Black"												"0 0 0 255"
 		"TransparentBlack"									"0 0 0 200"
 		"TransparentLightBlack"								"0 0 0 100"
-		"FooterBGBlack"										"32 31 30 255"
+		"FooterBGBlack"										"1 2 118 255"
 
 		"HUDBlueTeam"										"115 150 170 255"
 		"HUDRedTeam"										"190 60 60 255"
@@ -168,21 +168,21 @@
 		"QualityColorCollectors_GreyedOut"					"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 
-		"SaleGreen"											"80 175 115 255"
+		"SaleGreen"											"1 2 232 255"
 
-		"LightRed"											"80 175 115 255"
-		"LighterRed"										"80 175 115 255"
-		"LighterDarkBrown"									"72 71 70 255"
-		"DarkBrown"											"46 43 42 255"
+		"LightRed"											"1 2 232 255"
+		"LighterRed"										"1 2 232 255"
+		"LighterDarkBrown"									"3 70 247 255"
+		"DarkBrown"											"1 2 65 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"32 30 30 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"80 175 115 255"
+		"UpgradeArmedBg"									"1 2 232 255"
 		"UpgradeDepressedFg"								"32 30 30 255"
-		"UpgradeDepressedBg"								"80 175 115 255"
+		"UpgradeDepressedBg"								"1 2 232 255"
 		"UpgradeSelectedFg"									"32 30 30 255"
-		"UpgradeSelectedBg"									"80 175 115 255"
+		"UpgradeSelectedBg"									"1 2 232 255"
 		"UpgradeDisabledFg"									"32 30 30 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}

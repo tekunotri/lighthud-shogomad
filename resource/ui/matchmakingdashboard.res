@@ -453,7 +453,7 @@
 			"textAlignment"							"center"
 			"Command"								"resume_game"
 			"proportionaltoparent"					"1"
-			"labeltext"								"RESUME"
+			"labeltext"								"GO"
 			"mouseinputenabled"						"1"
 			"keyboardinputenabled"					"0"
 			"actionsignallevel"						"2"
